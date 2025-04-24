@@ -50,8 +50,10 @@ Using visualization tool like matplotlib to uncover patterns and compare KPIs ac
 
 This step helped us validate findings from other tools and provided an extra layer of analytical depth. 
 And here some clips of Matlotlip visuales
-![{83BFDA9B-D2CF-4035-9C7F-45D88899DBE4}](https://github.com/user-attachments/assets/59c7b067-0b63-4f3a-8108-b8095e82d29e)
-![{A1D7E9DB-E076-47E0-91DF-2E6AABFD06B1}](https://github.com/user-attachments/assets/6b69d487-053f-4a61-bf38-4d02f26feec5)![{A76A0EB5-ADE2-4639-B710-5C249A166AA7}](https://github.com/user-attachments/assets/c7da70ec-61e6-4809-98e4-defd2d232ba8) ![{E54BFEA4-AE95-474C-9392-269CFE930D24}](https://github.com/user-attachments/assets/8c0c8a19-c7ef-4de4-adb5-17a8b2922d54)
+![image](https://github.com/user-attachments/assets/ba310f25-3cbb-4c06-ad0f-75490d77ca62)
+![image](https://github.com/user-attachments/assets/cdcd54a6-b689-4fde-ad1e-75d767dd8215)![image](https://github.com/user-attachments/assets/4d3c2add-21f9-400c-97c1-016d656e1b8f)
+![image](https://github.com/user-attachments/assets/546d18e3-54d8-42d9-a361-8c6df0f9c3ee)
+
 
 
 
