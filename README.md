@@ -49,12 +49,15 @@ Running exploratory data analysis (EDA) to identify trends in sales, profits, an
 Using visualization tool like matplotlib to uncover patterns and compare KPIs across categories.
 
 This step helped us validate findings from other tools and provided an extra layer of analytical depth. 
-And here some clips of Matlotlip visuales
+
+
+And here some clips of Matlotlip visuales......
 ![image](https://github.com/user-attachments/assets/ba310f25-3cbb-4c06-ad0f-75490d77ca62)
 ![image](https://github.com/user-attachments/assets/cdcd54a6-b689-4fde-ad1e-75d767dd8215)
 ![image](https://github.com/user-attachments/assets/546d18e3-54d8-42d9-a361-8c6df0f9c3ee)
 ![image](https://github.com/user-attachments/assets/4d3c2add-21f9-400c-97c1-016d656e1b8f)
-
+Main file that Contain visuales & functions
+https://colab.research.google.com/drive/1WVghUjvfUJkaTtW8yUAHNoQrpq9WhHa2?usp=sharing
 
 
 
