@@ -96,7 +96,8 @@ And You can find The main file By clicking the following link below
 
 
 
-https://drive.google.com/file/d/12gA6GX7MCnKWlIdwLbppM9WIdDew-1ND/view?usp=drive_link
+[https://drive.google.com/file/d/12gA6GX7MCnKWlIdwLbppM9WIdDew-1ND/view?usp=drive_link](https://drive.google.com/file/d/10vQPDP0jE06uDerov282Pa8l0eZXW7in/view?usp=sharing)
+
 
 
 # 🔗 Data Model Overview (Muhammmed Hazem & Omnia Ashraf) 
