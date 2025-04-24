@@ -63,7 +63,8 @@ And here some clips of Matlotlip visuales......
 ![image](https://github.com/user-attachments/assets/546d18e3-54d8-42d9-a361-8c6df0f9c3ee)
 
 
-![image](https://github.com/user-attachments/assets/4d3c2add-21f9-400c-97c1-016d656e1b8f)
+![image](https://github.com/user-attachments/assets/b59cac7b-080a-4db7-bac5-77540b111976)
+
 
 
 Main file that Contain visuales & functions
