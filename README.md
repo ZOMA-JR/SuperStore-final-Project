@@ -12,6 +12,6 @@ Sarah Mostafa Abelrhman
 
 Sara Elsayed brahim
 
-# Superstore Sales Analysis – Visionary Analyst Team
-Welcome to our data analysis project where we explored the Superstore Sales dataset using multiple tools and techniques. This project showcases how a single dataset can be approached and analyzed in different ways across different platforms.
+# Welcome to our data analysis project
+where we explored the Superstore Sales dataset using multiple tools and techniques. This project showcases how a single dataset can be approached and analyzed in different ways across different platforms.
 
