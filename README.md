@@ -53,7 +53,8 @@ This step helped us validate findings from other tools and provided an extra lay
 And here some clips of Matlotlip visuales......
 
 
-![image](https://github.com/user-attachments/assets/ba310f25-3cbb-4c06-ad0f-75490d77ca62)
+![image](https://github.com/user-attachments/assets/eecbdd04-9a1a-4c8e-8bc8-44e6040af471)
+
 
 
 ![image](https://github.com/user-attachments/assets/cdcd54a6-b689-4fde-ad1e-75d767dd8215)
