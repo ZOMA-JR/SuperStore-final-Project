@@ -71,7 +71,7 @@ The Main file that Contain visuales & functions
 
 https://colab.research.google.com/drive/1WVghUjvfUJkaTtW8yUAHNoQrpq9WhHa2?usp=sharing
 
-# 📝 SQL Contribution – Data Cleaning, Transformation & Structured Analysis
+# 📝 SQL Contribution – Data Cleaning, Transformation & Structured Analysis By ( Sarah Mostafa & Mohamed Hazem )
 One of our team members focused on utilizing SQL for structured data analysis. Their tasks included:
 
 Data Cleaning: Performed cleaning tasks such as handling missing values and duplicates directly in the database.
@@ -88,7 +88,9 @@ here you can see some clips from this part
 ![{CDAE6E85-FA47-4B0F-95EE-96AEE26564F3}](https://github.com/user-attachments/assets/70bca32a-baa0-4194-8ba1-7d95badac13c)
 
 
-And here is the main file
+And You can find The main file By clicking the following link below
+https://drive.google.com/file/d/12gA6GX7MCnKWlIdwLbppM9WIdDew-1ND/view?usp=drive_link
+
 
 
 
