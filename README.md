@@ -38,7 +38,7 @@ Clips from Excel
 Main file 
 [final_Superstore_Sales_Project.xlsx](https://github.com/user-attachments/files/19888745/final_Superstore_Sales_Project.xlsx)
 
-# 🐍 Python Contribution – Data Analysis & Insights Extraction by (Omnia Ashraf & Sara elsayed)
+# 🐍 Python Contribution – Data Analysis & Insights Extraction by (Omnia Ashraf & Sara Elsayed)
 Another member of our team used Python to perform deeper analysis and extract insights from the cleaned Superstore dataset. Their tasks included:
 
 Loading and exploring the data using libraries like pandas .
@@ -99,7 +99,7 @@ And You can find The main file By clicking the following link below
 https://drive.google.com/file/d/12gA6GX7MCnKWlIdwLbppM9WIdDew-1ND/view?usp=drive_link
 
 
-# 🔗 Data Model Overview 
+# 🔗 Data Model Overview (Muhammmed Hazem & Omnia Ashraf) 
 
 
 ![image](https://github.com/user-attachments/assets/810b1c4f-8c60-466f-86db-7a5f8546ba45)
@@ -120,7 +120,7 @@ This data model serves as the foundation for visualizations and deeper insights,
 
 
 
-# 📊 Tableau Dashboard – Interactive Visual Insights
+# 📊 Tableau Dashboard – Interactive Visual Insights by (Sarah Elsayed & Sarah Mostafa)
 The final component of our analysis is the fully interactive Tableau dashboard, designed to provide dynamic visual insights into the Superstore dataset. This dashboard consolidates key performance indicators (KPIs) such as sales trends, profit margins, customer behavior, and regional performance, allowing users to 
 interact with the data in real-time.
 
