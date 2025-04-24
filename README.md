@@ -71,6 +71,32 @@ The Main file that Contain visuales & functions
 
 https://colab.research.google.com/drive/1WVghUjvfUJkaTtW8yUAHNoQrpq9WhHa2?usp=sharing
 
+#📝 SQL Contribution – Data Cleaning, Transformation & Structured Analysis
+One of our team members focused on utilizing SQL for structured data analysis. Their tasks included:
+
+Data Cleaning: Performed cleaning tasks such as handling missing values and duplicates directly in the database.
+
+Data Transformation: Transformed data using SQL queries (e.g., changing column types, merging tables, creating new calculated fields).
+
+Filtering & Aggregation: Applied complex filters and aggregation techniques (e.g., GROUP BY, HAVING, and JOINs) to prepare data for deeper analysis.
+
+Optimized Queries: Wrote efficient queries to extract valuable insights and ensure that the data was well-organized for further analysis in other tools.
+
+This step helped us structure the data for a more accurate and detailed exploration
+here you can see some clips from this part 
+![{775806F0-A164-4C26-91D1-D6BA72860476}](https://github.com/user-attachments/assets/8734de43-02bf-4837-a9cc-e73aff46218b)
+![{CDAE6E85-FA47-4B0F-95EE-96AEE26564F3}](https://github.com/user-attachments/assets/70bca32a-baa0-4194-8ba1-7d95badac13c)
+
+
+And here is the main file
+
+
+
+
+
+
+
+
 
 
 
