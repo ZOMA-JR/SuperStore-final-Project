@@ -97,6 +97,47 @@ And You can find The main file By clicking the following link below
 https://drive.google.com/file/d/12gA6GX7MCnKWlIdwLbppM9WIdDew-1ND/view?usp=drive_link
 
 
+# 🔗 Data Model Overview 
+
+
+![image](https://github.com/user-attachments/assets/810b1c4f-8c60-466f-86db-7a5f8546ba45)
+
+
+In this project, we developed a relational data model that connects key entities within the Superstore dataset. The model defines the relationships between orders, customers, products, and regions, creating a clear structure that enables efficient data exploration and analysis.
+
+Orders: Contains transactional data, including sales, quantities, and shipping details.
+
+Customers: Includes demographic and geographic information about each customer.
+
+Products: Features product details like category, sub-category, and price.
+
+Regions: Represents different geographical regions where sales are made.
+
+This data model serves as the foundation for visualizations and deeper insights, ensuring consistency and ease of analysis across different tools
+
+
+
+
+# 📊 Tableau Dashboard – Interactive Visual Insights
+The final component of our analysis is the fully interactive Tableau dashboard, designed to provide dynamic visual insights into the Superstore dataset. This dashboard consolidates key performance indicators (KPIs) such as sales trends, profit margins, customer behavior, and regional performance, allowing users to 
+interact with the data in real-time.
+
+
+
+![{988CE4FF-4FAC-4E62-9104-AF579331EB58}](https://github.com/user-attachments/assets/87c99b38-1b0a-4e63-8de0-e32d637414e6)
+
+
+Key features include:
+
+Sales and Profit Trends: Visualized over time to identify patterns and seasonal fluctuations.
+
+Customer Segmentation: Insights into different customer groups based on spending habits and demographics.
+
+Regional Analysis: A geographical heatmap showcasing performance across various regions.
+
+Filters and Drill-downs: Users can filter by time, product, and region, and drill down into specific details for deeper exploration.
+
+This interactive dashboard makes the data more accessible and user-friendly, allowing stakeholders to explore insights independently and make data-driven decisions.
 
 
 
