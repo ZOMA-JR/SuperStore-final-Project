@@ -1,3 +1,14 @@
+## 📚 Table of Contents
+- [Project Overview](#welcome-to-our-data-analysis-project)
+- [Description](#-description)
+- [Excel Contribution](#-excel-contribution)
+- [Python Contribution](#-python-contribution)
+- [SQL Contribution](#-sql-contribution)
+- [Data Model](#-data-model-overview)
+- [Tableau Dashboard](#-tableau-dashboard)
+
+
+
 # SuperStore-final-Project
 # Represented By "Visionary analyst"
 ![image](https://github.com/user-attachments/assets/2dd92037-75ae-417e-aa20-71c6c63c44c9)
