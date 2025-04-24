@@ -67,7 +67,7 @@ And here some clips of Matlotlip visuales......
 
 
 
-Main file that Contain visuales & functions
+The Main file that Contain visuales & functions
 
 https://colab.research.google.com/drive/1WVghUjvfUJkaTtW8yUAHNoQrpq9WhHa2?usp=sharing
 
