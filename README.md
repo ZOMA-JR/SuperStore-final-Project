@@ -57,7 +57,7 @@ And here some clips of Matlotlip visuales......
 
 
 
-![image](https://github.com/user-attachments/assets/cdcd54a6-b689-4fde-ad1e-75d767dd8215)
+![image](https://github.com/user-attachments/assets/57d4d6ec-053e-45dd-91cc-a9370b1190c2)
 
 
 ![image](https://github.com/user-attachments/assets/546d18e3-54d8-42d9-a361-8c6df0f9c3ee)
