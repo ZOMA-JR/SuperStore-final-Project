@@ -6,10 +6,20 @@
 
 ## 📚 Table of Contents
 - [Project Overview](#welcome-to-our-data-analysis-project)
-- [Description](#-description)
+-
+-
+-
+  [Description](#-description)
+-
+-
+-
 - [Excel Contribution](#-excel-contribution)
 - [Python Contribution](#-python-contribution)
-- [SQL Contribution](#-sql-contribution)
+-
+-   [SQL Contribution](#-sql-contribution)
+-
+-
+-
 - [Data Model](#-data-model-overview)
 - [Tableau Dashboard](#-tableau-dashboard)
 
