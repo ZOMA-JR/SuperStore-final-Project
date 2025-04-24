@@ -31,7 +31,7 @@ Applying formulas and functions to structure the data, such as IF, VLOOKUP, and 
 Performing basic exploratory analysis to understand sales patterns and identify potential data issues before loading into other tools.
 
 This step ensured the dataset was clean, structured, and analysis-ready for use in Power BI, Tableau, and SQL.
-Clips from ![{A2BB1D55-40FC-46E2-8B38-23E6FF14BACE}](https://github.com/user-attachments/assets/fae8d7b7-ae94-4750-b5a0-1f4b13a8cff6)  ![{92343F00-625D-428A-8FFC-88E75EDC65E3}](https://github.com/user-attachments/assets/85358529-d0c7-4acc-93fd-e0a4a0ad30c8)
+Clips from ![{A2BB1D55-40FC-46E2-8B38-23E6FF14BACE}](https://github.com/user-attachments/assets/fae8d7b7-ae94-4750-b5a0-1f4b13a8cff6)  ![image](https://github.com/user-attachments/assets/b0b9c0d5-f3f9-465e-9942-fce990bd3f4d)
 
  
 
