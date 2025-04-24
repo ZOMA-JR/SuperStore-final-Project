@@ -36,8 +36,7 @@ Clips from Excel
 Main file 
 [final_Superstore_Sales_Project.xlsx](https://github.com/user-attachments/files/19888745/final_Superstore_Sales_Project.xlsx)
 
-# 
-🐍 Python Contribution – Data Analysis & Insights Extraction by Omnia Ashraf & Sara elsayed
+# 🐍 Python Contribution – Data Analysis & Insights Extraction by (Omnia Ashraf & Sara elsayed)
 Another member of our team used Python to perform deeper analysis and extract insights from the cleaned Superstore dataset. Their tasks included:
 
 Loading and exploring the data using libraries like pandas .
