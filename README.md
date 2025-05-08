@@ -102,7 +102,8 @@ https://drive.google.com/file/d/12gA6GX7MCnKWlIdwLbppM9WIdDew-1ND/view?usp=shari
 # 🔗 Data Model Overview (Muhammmed Hazem & Omnia Ashraf) 
 
 
-![image](https://github.com/user-attachments/assets/810b1c4f-8c60-466f-86db-7a5f8546ba45)
+![image](https://github.com/user-attachments/assets/75eb18f4-c259-4b64-9242-35abd1a5646b)
+
 
 
 In this project, we developed a relational data model that connects key entities within the Superstore dataset. The model defines the relationships between orders, customers, products, and regions, creating a clear structure that enables efficient data exploration and analysis.
