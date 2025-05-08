@@ -127,7 +127,7 @@ interact with the data in real-time.
 
 
 
-![{988CE4FF-4FAC-4E62-9104-AF579331EB58}](https://github.com/user-attachments/assets/87c99b38-1b0a-4e63-8de0-e32d637414e6)
+![WhatsApp Image 2025-05-05 at 12 48 19_d6a076f3](https://github.com/user-attachments/assets/977237d2-fcc7-4355-a8eb-5331f18e6102)
 
 
 Key features include:
